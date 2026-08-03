@@ -5,7 +5,7 @@ Computer Science and Engineering undergraduate focused on Data Structures, Algor
 
 ### 🛠 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode" alt="skill icons"/>
+  <img src="https://skillicons.dev/icons?i=python,java,github,vscode" alt="skill icons"/>
 </p>
 
 ### 🔗 Coding Profiles
