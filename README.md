@@ -1,47 +1,34 @@
+# Hi, I'm Cherukuri Madhu 👋
+
+### 👨‍💻 About Me
+Computer Science and Engineering undergraduate focused on Data Structures, Algorithms, and AI/ML, with hands-on experience building real-world and academic software projects. Passionate about problem solving, machine learning, and continuous learning.
+
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode" alt="skill icons"/>
+</p>
+
+### 🔗 Coding Profiles
+<p align="left">
+  <a href="https://www.linkedin.com/in/cherukuri-madhu/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/Madhu_Cherukuri/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+</p>
+
+### 📊 GitHub Stats
 <p align="center">
-  <img src="0fbcc88a-cffc-4dea-b784-2bdc953aa50e.png" alt="Building software through problem solving" width="100%"/>
-</p>
-
-<h1 align="center">Hi 👋, I'm Cherukuri Madhu</h1>
-<h3 align="center">Computer Science and Engineering undergraduate focused on Data Structures, Algorithms, and AI/ML, with hands-on experience building real-world and academic software projects. Passionate about problem solving, machine learning, and continuous learning.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cherukurimadhu&label=Profile%20views&color=0e75b6&style=flat" alt="cherukurimadhu" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/cherukuri-madhu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cherukuri-madhu" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Madhu_Cherukuri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Madhu_Cherukuri" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-</p>
-
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cherukurimadhu&show_icons=true&locale=en&layout=compact" alt="cherukurimadhu" />
-</p>
-
-<p>
-&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=cherukurimadhu&show_icons=true&locale=en" alt="cherukurimadhu" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cherukurimadhu&" alt="cherukurimadhu" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cherukurimadhu&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherukurimadhu&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/Madhu_Cherukuri?theme=light&font=Karma&ext=contest" alt="Madhu_Cherukuri LeetCode Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cherukurimadhu&theme=tokyonight" alt="cherukurimadhu streak stats"/>
+</p>
+
+### 🧠 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Madhu_Cherukuri?theme=dark&font=Karma&ext=contest" alt="Madhu_Cherukuri LeetCode Stats"/>
 </p>
