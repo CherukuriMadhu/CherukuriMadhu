@@ -1,4 +1,8 @@
-# Hi, I'm Cherukuri Madhu 👋
+<p align="center">
+  <img src="0fbcc88a-cffc-4dea-b784-2bdc953aa50e.png" alt="Building software through problem solving" width="100%"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Cherukuri Madhu</h1>
 
 ### 👨‍💻 About Me
 Computer Science and Engineering undergraduate focused on Data Structures, Algorithms, and AI/ML, with hands-on experience building real-world and academic software projects. Passionate about problem solving, machine learning, and continuous learning.
