@@ -37,5 +37,9 @@ Computer Science and Engineering undergraduate focused on Data Structures, Algor
   <img src="https://leetcard.jacoblin.cool/Madhu_Cherukuri?theme=dark&font=Karma&ext=contest" alt="Madhu_Cherukuri LeetCode Stats"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CherukuriMadhu/CherukuriMadhu/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CherukuriMadhu/CherukuriMadhu/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CherukuriMadhu/CherukuriMadhu/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/CherukuriMadhu/CherukuriMadhu/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
