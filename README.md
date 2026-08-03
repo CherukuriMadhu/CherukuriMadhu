@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/cherukuri-madhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cherukuri-madhu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/madhu_cherukuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="madhu_cherukuri" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/cherukuri-madhu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cherukuri-madhu" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Madhu_Cherukuri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Madhu_Cherukuri" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
