@@ -12,7 +12,7 @@ Computer Science and Engineering undergraduate focused on Data Structures, Algor
   <img src="https://skillicons.dev/icons?i=python,java,git,vscode,sql" alt="skill icons"/>
 </p>
 
-### 🔗 Coding Profiles
+### 🔗 Profiles
 <p align="left">
   <a href="https://www.linkedin.com/in/cherukuri-madhu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
