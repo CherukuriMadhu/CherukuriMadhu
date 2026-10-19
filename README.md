@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Cherukuri Madhu</h1>
 
 ### 👨‍💻 About Me
-Computer Science and Engineering undergraduate focused on Data Structures, Algorithms, and AI/ML, with hands-on experience building real-world and academic software projects. Passionate about problem solving, machine learning, and continuous learning.
+Computer Science and Engineering undergraduate focused on Data Structures, Algorithms, and AI/ML, with hands-on experience building real-world and academic software projects. Passionate about problem solving, exploring datasets, machine learning, and continuous learning.
 
 ### 🛠 Tech Stack
 <p align="left">
